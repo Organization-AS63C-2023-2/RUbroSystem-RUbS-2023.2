@@ -4,8 +4,8 @@ Integrantes:
 - Leandro Henrique Oliveira Neves
 - Andrei Rezende
 - Felipe Godoi
-- Guilherme
-- Roger
-- Rodrigo
-Descrição: Ideia baseada na atualização e otimização do restaurante universitário (RU). Contará com novas tecnologias que poderão... (atualizar).
+- Guilherme Yuiti Tarumoto
+- Roger Yoshiaki Motoyama
+- Rodrigo Aleixo Fidelis Faria
+Descrição: Ideia baseada na atualização e otimização do restaurante universitário (RU). Contará, fundamentalmente, a tecnologia e uso de QR's codes para comprar e utilização de fichas de refeição. Também será possibilitado a compra de fichas via celular/web-site, e não mais necessariamente presencialmente.
 
