@@ -4,7 +4,6 @@ Integrantes:
 - Leandro Henrique Oliveira Neves
 - Andrei Rezende
 - Felipe Godoi
-- Guilherme Yuiti Tarumoto
 - Roger Yoshiaki Motoyama
 - Rodrigo Aleixo Fidelis Faria
 Descrição:
