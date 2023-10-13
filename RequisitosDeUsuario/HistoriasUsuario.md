@@ -34,7 +34,7 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
             <span id="ustory-01"></span>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US03</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Eu, como funcionário, quero ter um cadastro que me permita adicionar, debitar e atualizar a quantidade créditos, para eventuais necessidades (compra, reembolso de fichas)</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>Ao fazer login, devem haver mais funcionalidades comparados aos usuários.</li>O funcionário deve ser capaz de atualizar o saldo do aluno para refeições subsidiadas.</li></ol></td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>Ao fazer login, devem haver mais funcionalidades comparados aos usuários.</li><li>O funcionário deve ser capaz de atualizar o saldo do aluno para refeições subsidiadas.</li></ol></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle"> Alta </td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle"> RF07, RF08 </td>
         </tr>
