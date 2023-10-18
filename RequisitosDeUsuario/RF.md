@@ -4,14 +4,14 @@
 
 | ID   |                                 Requisito                                   | Prioridade | Requisitos Relacionados |
 | :--: | :-----------------------------------------------------------------------:   | :--------: | :---------: |
-| RF01 |    O sistema deve permitir que os usuários faço um cadastro.                |  Alta     |    -     |
-| RF02 |    O sistema deve permitir que os usuários visualize o carrinho de compras. |  Média      |     -   |
-| RF03 |    O sistema deve permitir que os usuários realize a compra.                |  Alta     |     -       |
-| RF04 |    O sistema deve permitir que os usuários peça reembolso de uma compra.    |  Alta      |      -       |
-| RF05 |    O sistema deve permitir que os usuários adicione fichas ao carrinho.     |  Alta     |        -     |
-| RF06 |    O usuário deve conseguir visualizar seu histórico de compras.            |  Baixa      |       -      |
+| RF01 |    O sistema deve permitir que os usuários faço um cadastro.                |  Alta     |         |
+| RF02 |    O sistema deve permitir que os usuários visualize o carrinho de compras. |  Média      |     RF01   |
+| RF03 |    O sistema deve permitir que os usuários realize a compra.                |  Alta     |     RF01       |
+| RF04 |    O sistema deve permitir que os usuários peça reembolso de uma compra.    |  Alta      |      RF01       |
+| RF05 |    O sistema deve permitir que os usuários adicione fichas ao carrinho.     |  Alta     |        RF03     |
+| RF06 |    O usuário deve conseguir visualizar seu histórico de compras.            |  Baixa      |       RF02      |
 | RF07 |    O sistema deve permitir que os funcionários tenha um cadastro especial.  |  Alta       |      -       |
-| RF08 |    O sistema deve permitir que os funcionários acessem e atualizem as fichas dos alunos, podendo adicionar ou debitar créditos de refeições. |     Alta       |      -       |
+| RF08 |    O sistema deve permitir que os funcionários acessem e atualizem as fichas dos alunos, podendo adicionar ou debitar créditos de refeições. |     Alta       |      RF08       |
 
 
 <div style="text-align: center">
