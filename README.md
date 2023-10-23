@@ -8,7 +8,7 @@ Integrantes:
 - Andrei Rezende - https://github.com/AndreiRezende
 - Felipe Godoi - https://github.com/FelipeGodoi12
 - Roger Yoshiaki Motoyama - https://github.com/rogerymx
-- Rodrigo Aleixo Fidelis Faria - 
+- Rodrigo Aleixo Fidelis Faria - https://github.com/rodrigoaleixoff
 
 Descrição:
 - Ideia baseada na atualização e otimização do restaurante universitário (RU). Contará, fundamentalmente, a tecnologia e uso de QR's codes para comprar e utilização de fichas de refeição. Também será possibilitado a compra de fichas via celular/web-site, e não mais presencialmente.
